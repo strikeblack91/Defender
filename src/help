@@ -1,0 +1,61 @@
+
+----------------------------------   COMMANDS   ----------------------------------
+
+ -  When in game, you can pause your quest or restart it at any time by clicking on the space bar.
+
+ -  Left-click on one of the buttons at the bottom of the screen in order to build either
+    a small turret, a big turret or a mine.
+    NB: You can right-clik anywhere if you want to cancel your purchase.
+
+ -  After you have chosen a building you can left-click somewhere on the map in order to place your building
+    NB: you cannot build it on an existing building or a monster.
+
+ -  If you do not have enough gold to fight evil... ask GOD to bless you!
+
+----------------------------------   HOW TO PLAY   ----------------------------------
+
+Hi dear Defender of the Faith,
+
+Below are all the necessary information that will help you accomplish your duty,
+be sure to keep all of them in mind in order to be the most efficient as possible!
+
+As soon as you will launch a game by clicking on the "START" button in the Main Menu
+you will be attacked by fierce monsters. But do not panick, you need to survive for as
+long as possible until help comes! (if it does...)
+
+To help you in this task you have a big Red Castle, it has its own ammunition and it
+fires automatically. You will gain gold as you get through the different levels,
+the longer you survive the better!!
+
+    Your Red Castle charateristics:
+        health => 1000
+        damage => 100
+        range => 300
+
+You have the possibility to spend the gold you earned on new buildings that will
+either give you extra fire power or increase your gold mining capabilities.
+The available buildings are the following:
+
+    - Small turret:
+        health  => 100
+        damage  => 40
+        range   => 100
+        action  => automatically attack monsters once it is placed
+        price   => 500
+
+    - Big turret:
+        health  => 200
+        damage  => 60
+        range   => 200
+        action  => automatically attack monsters once it is placed
+        price   => 1500
+
+    - Mine:
+        health  => 50
+        damage  => 0
+        range   => 0
+        action  => will give you 500 more gold every 5 seconds for each mine you have placed
+        price   => 2000
+
+Wisely purchase and place your buildings as it may lead you to victory! (or not...)
+
